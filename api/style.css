@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+body {
+  overflow: hidden;
+  height: 100vh;
+}
+
+#quote {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%);
+  padding: 2rem;
+  background: cyan;
+  border-radius: 30px;
+  transition: 5s;
+  color: red;
+}
