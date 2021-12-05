@@ -15,7 +15,7 @@ do {
             permut = 1;
         }
     }
-    console.log(permut)
+    //console.log(permut)
 } while (permut=1)
 return array;
 
